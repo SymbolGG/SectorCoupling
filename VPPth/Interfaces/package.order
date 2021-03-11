@@ -1,0 +1,16 @@
+HeatPump
+HeatStorage
+GasBoiler
+HeatPipe
+SlackHeatSource
+EBoiler
+Grid
+P2H
+TemperatureSource
+Renewables
+ColdLoad
+ETES
+ServiceCall
+HeatLoad
+CHP
+CHPth
